@@ -1,1 +1,6 @@
 functions.py
+*.csv 
+idea/*
+
+#*.csv --> all csv files
+#idea/* all files inside idea folder
